@@ -1,4 +1,7 @@
-# Lovelace Lair
+---
+layout: single
+title: Lovelace Lair
+---
 
 ![](/assets/images/ada_lovelace.jpg){: .center-image }
 
