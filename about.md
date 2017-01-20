@@ -1,4 +1,7 @@
 # Lovelace Lair
+
+![](/assets/images/ada_lovelace.jpg){: .center-image }
+
 The Lovelace Lair is a vibrant community of young researchers in Computer Science at Durham University.
 
 Our research interests includes:
