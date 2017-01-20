@@ -1,7 +1,7 @@
 name             : "Grégoire Payen de La Garanderie"
-avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+avatar           : /assets/images/authors/gregdlg.jpg
 bio              : "I am an amazing person."
-location         : "Somewhere"
+location         : 
 email            :
 uri              :
 bitbucket        :
@@ -10,7 +10,7 @@ dribbble         :
 flickr           :
 facebook         :
 foursquare       :
-github           :
+github           : gdlg
 google_plus      :
 keybase          :
 instagram        :
