@@ -44,19 +44,19 @@ $(document).ready(function(){
       Stickyfill.stop();
       $(".author__urls").hide();
     }
-  };
+      };
 
   stickySideBar();
 
   $(window).resize(function(){
     stickySideBar();
-  });
+      });
 
   // Follow menu drop down
 
   $(".author__urls-wrapper button").on("click", function() {
-    $(".author__urls").fadeToggle("fast", function() {});
-    $(".author__urls-wrapper button").toggleClass("open");
+    $(".author__urls[name='"+this.name+"']").fadeToggle("fast", function() {});
+    $(".author__urls-wrapper button[name='"+this.name+"']").toggleClass("open");
   });
 
   // init smooth scroll
