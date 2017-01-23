@@ -53,10 +53,15 @@ $(document).ready(function(){
       });
 
   // Follow menu drop down
-
   $(".author__urls-wrapper button").on("click", function() {
     $(".author__urls[name='"+this.name+"']").fadeToggle("fast", function() {});
     $(".author__urls-wrapper button[name='"+this.name+"']").toggleClass("open");
+  });
+
+  // Follow menu drop down - adalyte
+  $(".adalyte__urls-wrapper button").on("click", function() {
+    $(".adalyte__urls[name='"+this.name+"']").fadeToggle("fast", function() {});
+    $(".adalyte__urls-wrapper button[name='"+this.name+"']").toggleClass("open");
   });
 
   // init smooth scroll

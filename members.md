@@ -5,7 +5,7 @@ title: Members
 
 {% for pauthor in site.data.authors %}
   {% assign author = pauthor[1] %}
-  {% include author-profile.html %}
+  {% include adalyte-profile.html %}
 {% endfor %}
 
 # Past Members
