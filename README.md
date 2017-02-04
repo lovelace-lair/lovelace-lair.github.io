@@ -7,7 +7,7 @@ Add your profile to the folder `_data/authors/`. You can use Chas’ profile in 
 
 Put your picture in the folder `assets/images/authors/`. Your picture should be square due to a limitation of the current CMS otherwise you will look horribly disfigured on the website.
 
-You can write new blog posts in the `_posts` directory. The filename should have the format `year-month-day-your-title.md` to be properly indexed and start with
+You can write new blog posts in the `_posts` directory. The filename should have the format `year-month-day-your-title.md` to be properly indexed and the file should start with
 
 ```markdown
 ---
