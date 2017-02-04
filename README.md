@@ -1,4 +1,4 @@
-Dear Adalyte,
+#### Dear Adalyte,
 
 You are encouraged to participate in the Lair’s Blog.
 
