@@ -240,7 +240,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false # Greg: I disabled that because it seems mostly irrelevant for technical reads.
       comments: true
       share: true
       related: true
