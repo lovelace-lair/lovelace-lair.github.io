@@ -1,4 +1,5 @@
 name             : "Grégoire Payen de La Garanderie"
+status           : 'current' # Put 'current' if you are a current member, 'alumni' if you are alumni, 'founder' if you were there when it all started.
 avatar           : /assets/images/authors/gregdlg.jpg
 bio              : "Computer Vision PhD student"
 location         : 

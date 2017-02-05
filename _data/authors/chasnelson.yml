@@ -1,4 +1,5 @@
 name             : "Chas Nelson"
+status           : ['current', 'founder'] # Put 'current' if you are a current member, 'alumni' if you are alumni, 'founder' if you were there when it all started.
 avatar           : /assets/images/authors/chasnelson.jpg
 bio              : "Chas is one of the earliest members of the lair and, with Alejandro and Miks, was key to setting up the vibrant and exciting culture that still persists to this day. When not making coffee, being noisy or arguing with Miks, Chas carries out research for his Ph.D.. Chas' research interested are focussed around the quantitative analysis of biological and medical images and his research uses mathematical concepts such as mathematical morphology to enhance and annotate such images."
 location         : "Durham, UK"
